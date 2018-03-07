@@ -1,0 +1,9 @@
+#c_list{height: 100%;background: #f3f4f6;}
+#c_dynamic{padding:1.6rem 0 1.3rem 1.03rem; font-size: 1rem;color:#2f3130;border-bottom:1px solid #dbdcde}
+#c_dynamic span{margin-left: 0.5rem;color:#5f6062}
+
+#c_list li img{width: 3.72rem;height: 3.72rem;border-radius: 50%;display: block;margin-right: 1.03rem;}
+#c_list li{display: flex;justify-content: flex-start;padding-top: 2.24rem;padding-left: 1.03rem;padding-right: 1rem;}
+#c_list li h6{color: #537fae;font-size: 1rem;}
+#c_list li p:nth-of-type(1){color: #929395;font-size: 0.8rem;margin: 0.56rem 0;}
+#c_list li p:nth-of-type(2){color: #303231;font-size: 0.8rem;line-height: 1.41rem;}

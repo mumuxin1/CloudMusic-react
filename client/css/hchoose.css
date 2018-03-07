@@ -1,0 +1,35 @@
+			#hlist{
+				background: #F3F3F3;
+				height:20rem;
+				overflow: auto;
+			}
+			#hlist>.title{
+				margin-left: 0.6rem;
+			}
+			#hlist>.title>h6{
+				color: #606060;
+				font-size: 0.8rem;
+				font-weight: normal;
+			}
+			#hlist>ul>li{
+				height: 2.8rem;
+				line-height: 2.8rem;
+				font-size: 0.9rem;
+			}
+			#hlist>ul>li>a{
+				display: flex;
+			}
+			#hlist>ul>li>a>i{
+				display: inline-block;
+				height: 2.8rem;
+				width: 2.8rem;
+				text-align: center;
+				font-size:1.2rem;
+				color: red;
+			}
+			#hlist>ul>li>a>p{
+				flex: 1;
+				color: #5F5F5F;
+				box-sizing: border-box;
+				border-bottom: 0.02rem solid #EAEAEA;
+			}

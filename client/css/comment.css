@@ -1,0 +1,37 @@
+#comment header{height:5rem;background-color:#d33a32;line-height:5rem;color:#fff;padding:0 1.5rem;font-size:1.2rem;display: flex;align-items: center;}
+#comment header span{width:2.06rem;height:2.06rem;display: block;margin-right:1.2rem}
+#comment header span img{width:1.9rem;height:1.9rem;}
+.wusertop{display: flex;padding:0.6rem ;justify-content: space-between;align-items: center;background-color:#f3f4f6}
+.wusertop>p{font-size:2rem;color:#adaeb0}
+.wusermesg{width:6.89rem;height:6.89rem;display: flex;flex:1;align-items: center;}
+.wusermesg img{width:6.89rem;height:6.89rem;}
+.wusermesg span{margin-left:1rem}
+.wusermesg span b{font-size:1.5rem}
+.wusermesg span p{color:#5c89b3}
+.wonderful{background-color:#f3f4f6;padding-bottom:5rem}
+.wonderful h4{font-weight: normal;color:#5e605f;background-color:#e7e9e8;height:2.5rem;line-height: 2.5rem;text-indent:1rem}
+.warticle{padding:1rem;border-bottom:1px solid #e7e8ea}
+.wartop {display: flex;align-items: center;color:#666}
+.wartop p{margin-left:1.2rem}
+.wartop span{width:3rem;height:3rem}
+.wartop span img{width:3rem;height:3rem}
+.warbottom{display: flex;align-items: center;border:1px solid #dcdedd;margin-left:4rem;}
+.warbottom span{flex:1;border-right:1px solid #dcdedd;padding:0 0.5rem}
+.warbottom span img{width:8rem;height:4.5rem}
+.wintruct{flex:3;background-color:#fff;color:#313131;padding-left:0.5rem;height:4.5rem;font-size:0.8rem;display: flex;flex-direction: column;justify-content: center;}
+.wintruct i{color:#949494}
+.wmsgist li{padding:0 1.03rem;display: flex;}
+.wmsgist>li>span{width:3rem;height:3rem;margin-right:1rem;margin-top:1.2rem}
+.wmsgist>li>span>img{width:3rem;height:3rem}
+.wleave{flex:1;border-bottom: 1px solid #e7e8ea;padding-top:1.2rem}
+.wleave>i{color:#8f9092;font-size:0.6rem;display: block;}
+.wleave b{color:#5f6062;font-size:0.8rem;display: block;}
+.wleave p{color:#313332;font-size:0.9rem;line-height: 3rem;}
+.wpraise{display:flex;justify-content: space-between;align-items: center;color:#929395}
+.wpraise span{display: flex;justify-content: space-between;}
+.wpraise span img{width:1.2rem;height:1.2rem;padding-left:0.5rem}
+.inputmsg{display: flex;justify-content:space-between;align-items:center;height:3.5rem;background-color:#fff;position:fixed;bottom: 0;width:100%;color:#cecece;}
+.winputtext{border-bottom: 1px solid #d4d4d4;display: flex;margin-bottom: -0.5rem;justify-content: space-between;margin-left: 1rem;flex:1}
+.inputmsg img{width:1.5rem;height:1.5rem;margin-bottom: 0.2rem;}
+.inputmsg input {border:none;outline: none;text-indent: 0.5rem;}
+.winputtext >span {display: block;padding:0 1rem}

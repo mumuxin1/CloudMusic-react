@@ -1,0 +1,24 @@
+#wheader{height:5.17rem;background-color:#d33a32};
+.wcenter{display:flex;justify-content: center;flex:2}
+.wtop .wcenter>span{margin:0 0.8rem;}
+.wtitle>ul{display: flex;justify-content: space-around;align-items: center;height:3.5rem;}
+.wtitle>ul li{height:3.93rem;text-align:center;padding:0 1.3rem;line-height:3.93rem;text-align:center}
+.wtitle>ul .active{border-bottom:2px solid #d63934;}
+#wlist{background-color:#f3f4f6;}
+.wcircle>ul{display:flex;justify-content: space-around;align-items:center;border-bottom:1px solid #e7e8ea;}
+.wcircle>ul li{width:3.8rem;padding:1.2rem 0}
+.wcircle>ul li p{text-align: center;line-height:2.5rem;font-size:0.8rem}
+.wcircle>ul li img{width:3.8rem;height:3.8rem;}
+.Recommended>span{margin:1.2rem 0;font-size:1.2rem;border-left:0.1rem solid #d63932;text-indent:1rem;display: block;}
+.wmusiclist{background-color:#f3f4f6;font-size:0.8rem;border-top: 1px solid #dbdcde;padding-bottom: 6rem;}
+.wmusiclist li{display:flex;justify-content: space-between;align-items: center;min-height:5.58rem;margin-left:0.68rem}
+.wmesg {width:3.65rem;flex:1;  margin-right: 0.5rem;}
+.wmesg img{width:3.65rem;height:3.65rem;}
+.wsongmesg{display:flex;justify-content: space-between;flex:4;height:3.65rem;border-bottom: 1px solid #dbdcde;padding-right:1rem;height:5.58rem;align-items: center;}
+.wsongmesg b{display: block;font-size:1rem}
+.wsongmesg p{color:#8a8b8d;line-height:2rem;}
+.wicon{flex:5}
+.wiconfont{flex:1;text-align:right}
+.wplaying{position: fixed;bottom:0;height:5.03rem;width:100%;display: flex;justify-content:space-between;align-items: center;background-color:#fff;z-index:222}
+.slick-dots{bottom:0;}
+.wbanner img{height:8rem;width:100%}
